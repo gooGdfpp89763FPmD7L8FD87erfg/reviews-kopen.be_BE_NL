@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /bedankt.html
 
-Sitemap: https://reviews-kopen.be/sitemap.xml
+Sitemap: https://reviews-kopen-market.com/sitemap.xml
